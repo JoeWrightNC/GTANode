@@ -1,0 +1,22 @@
+{
+  "name": "gtanode",
+  "version": "1.0.0",
+  "description": "Guess That Artist!  Node Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeWrightNC/GTANode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeWrightNC/GTANode/issues"
+  },
+  "homepage": "https://github.com/JoeWrightNC/GTANode#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
